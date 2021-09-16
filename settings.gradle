@@ -1,0 +1,3 @@
+include ':openCVLibrary345'
+include ':app'
+rootProject.name = "Camera Focus"
