@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
                 null);
 
         visionBuilder.setVisionRequestInitializer(
-                new VisionRequestInitializer("AIzaSyBcVa1effgH1NBEGEh8bwpNfh9ZS-mN7-Y"));
+                new VisionRequestInitializer("YOUR-API-GOOGLE-KEY"));
 
         vision = visionBuilder.build();
 
