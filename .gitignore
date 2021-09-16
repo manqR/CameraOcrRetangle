@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/openCVLibrary345
+/app/src/main/jniLibs
